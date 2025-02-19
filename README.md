@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/0paziz/Contact-form)
+- Solution URL: [Add solution URL here](https://github.com/0paziz/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://0paziz.github.io/Contact-form/)
 
 
